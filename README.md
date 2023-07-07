@@ -1,6 +1,6 @@
 # Anthony leborgne: Software Developer & Bug bounty hunter 👨‍💻🔐
 
-Hi there! I'm Anthony leborgne, a Software Developer at ALCI and Bug bounty hunter at YesWeHack. I'm passionate about vulnerability research, 3D, video game and software development. I love sharing my knowledge and contributing to the cybersecurity community. 🌐
+Hi there! I'm Anthony leborgne, a Software Developer at ALCI and Bug bounty hunter at YesWeHack. I'm passionate about vulnerability research and software development. I love sharing my knowledge and contributing to the cybersecurity community. 🌐
 
 <a href="https://github.com/0xTBBT" target="_blank">
   <img src="https://img.shields.io/github/followers/0xTBBT?style=social" alt="GitHub followers">
